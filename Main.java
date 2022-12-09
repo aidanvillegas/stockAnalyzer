@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 //STOCK MARKET DATA ANALYZER SEMESTER PROJECT
-//Aidan Villegas and Noah Molla
-//Mr. Kahn - Period 3
+//Aidan Villegas 
+
 
 
 
